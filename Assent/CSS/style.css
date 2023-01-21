@@ -21,16 +21,26 @@ button, li {
 }
 
 h1{
-    color: hsl(158, 36%, 37%); 
+    color: hsl(212, 21%, 14%); 
+}
+
+h2{
+    color:hsl(228, 12%, 48%);
 }
 
 p{
     color:hsl(228, 12%, 48%);
 }
 
-h1, .price{
+.value{
+    color: hsl(158, 36%, 37%);
+}
+
+h1, .value{
     font-family: 'Fraunces', sans-serif;
 }
+
+
 .attribution {
     font-size: 11px; 
     text-align: center;
