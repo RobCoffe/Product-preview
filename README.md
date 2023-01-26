@@ -10,9 +10,9 @@ As technologias utilizadas serão HTML e CSS.
 
 (The technologies used will be HTML and CSS.)
 
-Status do projeto: desenvolvimento.
+Status do projeto: Finalizado.
 
-(Status of the project: development)
+(***Status of the project: finished***)
 
 Inicio do projeto - 16/01/2023.
 
