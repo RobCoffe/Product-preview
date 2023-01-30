@@ -3,7 +3,6 @@
 *{
     padding: 0;
     margin: 0;
-    border: none;
     box-sizing: border-box;
     }
 
@@ -36,7 +35,7 @@ h2{
     margin-bottom: 1rem;
     letter-spacing: 0.2rem;
 }
-}
+
 
 p{
     color: hsl(228, 12%, 48%);
